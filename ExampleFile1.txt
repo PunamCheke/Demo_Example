@@ -2,3 +2,4 @@ Class is logical entity.
 Object is a physical entity.
 Class is created only one way classname.
 Object is created many way such as methods ,new classname.
+Class ex.process of making a food.
